@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22027092/README.md)
 # 📦 Arsip Bengkel
 
 Aplikasi **Inventaris & Arsip Bengkel** berbasis **PHP + MySQL**.  
