@@ -1,0 +1,6 @@
+# Protect PHP files from direct access
+<FilesMatch "\.(php)$">
+    Require all granted
+</FilesMatch>
+
+# Redirect to login if not logged in (handled by PHP)
